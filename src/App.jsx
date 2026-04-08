@@ -107,7 +107,7 @@ function App() {
   return (
     <div className="app-container">
       <header>
-        <h1>Amina's Human Detection </h1>
+        <h1>Amina's Human Detector </h1>
         <p className={`status ${isLoaded ? 'active' : 'loading'}`}>{status}</p>
       </header>
 
